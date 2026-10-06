@@ -3,6 +3,14 @@
     <channel>
         <title>Jovia</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Tue, 06 Oct 2026 01:29:27 +0100</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0.1/Jovia-1.0.1.dmg" length="5132680" type="application/octet-stream" sparkle:edSignature="sBKcjvsyYBwDgYTIvfGhZ23zxCvCu2xmVIp0dtE3S91duyMRqJLptm4bibrwvYEBT7D56XdwuKTylzzlhYchCg=="/>
+        </item>
+        <item>
             <title>1.0</title>
             <pubDate>Mon, 05 Oct 2026 19:16:01 +0100</pubDate>
             <sparkle:version>1</sparkle:version>
