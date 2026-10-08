@@ -3,6 +3,15 @@
     <channel>
         <title>Jovia</title>
         <item>
+            <title>1.0.6</title>
+            <pubDate>Thu, 08 Oct 2026 09:43:33 +0100</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.0.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/coddano/jovia-releases/main/Jovia-1.0.6.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0.6/Jovia-1.0.6.dmg" length="5395544" type="application/octet-stream" sparkle:edSignature="Ru8tL2unqJC3gYCk7bTDTKFT6RTzS1nJYsoEDGyZ4ERm6rt8SErHUv3z45i1TNSetyf6tIg0PDc47XRnQ0osCw=="/>
+        </item>
+        <item>
             <title>1.0.4</title>
             <pubDate>Wed, 07 Oct 2026 09:47:36 +0100</pubDate>
             <sparkle:version>5</sparkle:version>
@@ -18,14 +27,6 @@
             <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0.3/Jovia-1.0.3.dmg" length="5281896" type="application/octet-stream" sparkle:edSignature="RyHMzmZy9TN6qSD7nByjwLmbJcxjTlm5yKThwwA6Q80ytJtF6JfH/Nc0fhZe8m6Hji/5qx/kFqZysUhlhi2lCw=="/>
-        </item>
-        <item>
-            <title>1.0.1</title>
-            <pubDate>Tue, 06 Oct 2026 01:29:27 +0100</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>1.0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0.2/Jovia-1.0.2.dmg" length="5208003" type="application/octet-stream" sparkle:edSignature="AbYZWg1XrveEUR8WOx9Cdn7vJQ0PK8UEsTXVIzz7I7+NR822Hm7ifJrtJvC7QgVFHnYOOLM7zhl0ojWmcJ2WAg=="/>
         </item>
         <item>
             <title>1.0</title>
