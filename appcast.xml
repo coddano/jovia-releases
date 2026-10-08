@@ -3,6 +3,15 @@
     <channel>
         <title>Jovia</title>
         <item>
+            <title>1.0.7</title>
+            <pubDate>Thu, 08 Oct 2026 09:56:10 +0100</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/coddano/jovia-releases/main/Jovia-1.0.7.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0.7/Jovia-1.0.7.dmg" length="5366410" type="application/octet-stream" sparkle:edSignature="nn7pnanQan5HJBW5+vJ0qI4iIPCHjlUUbxHUG3jrlftrwLXPyangIKsR3SWVNLcqJUtQhNVtJUPXTdpoumVrCQ=="/>
+        </item>
+        <item>
             <title>1.0.6</title>
             <pubDate>Thu, 08 Oct 2026 09:43:33 +0100</pubDate>
             <sparkle:version>6</sparkle:version>
@@ -19,14 +28,6 @@
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/coddano/jovia-releases/main/Jovia-1.0.4.md</sparkle:releaseNotesLink>
             <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0.4/Jovia-1.0.4.dmg" length="5362807" type="application/octet-stream" sparkle:edSignature="qOycPTYRamUZZ2t93THXO0n+SS/QAeZLQFAqJBKc5HSpmSJBWEpjZtPm+g5DATE0lUlUb+WudeNekAcTfa3ZDQ=="/>
-        </item>
-        <item>
-            <title>1.0.3</title>
-            <pubDate>Tue, 06 Oct 2026 20:52:21 +0100</pubDate>
-            <sparkle:version>4</sparkle:version>
-            <sparkle:shortVersionString>1.0.3</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0.3/Jovia-1.0.3.dmg" length="5281896" type="application/octet-stream" sparkle:edSignature="RyHMzmZy9TN6qSD7nByjwLmbJcxjTlm5yKThwwA6Q80ytJtF6JfH/Nc0fhZe8m6Hji/5qx/kFqZysUhlhi2lCw=="/>
         </item>
         <item>
             <title>1.0</title>
