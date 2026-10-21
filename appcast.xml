@@ -1,7 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version='1.0' encoding='utf-8'?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Jovia</title>
+        <item>
+            <title>1.2.0</title>
+            <pubDate>Wed, 21 Oct 2026 18:01:09 +0100</pubDate>
+            <sparkle:version>13</sparkle:version>
+            <sparkle:shortVersionString>1.2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <sparkle:releaseNotesLink>https://raw.githubusercontent.com/coddano/jovia-releases/main/Jovia-1.2.0.md</sparkle:releaseNotesLink>
+            <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.2.0/Jovia-1.2.0.dmg" length="6763479" type="application/octet-stream" sparkle:edSignature="7/SmwsjX4rNbLtc7PAQbKRo4AwtQgeCHok+7GxkcX7wkSx65TLI0S3hjjhk2H+aQhpPzGsS9XVgf+DHp6ZNYDg==" />
+        </item>
         <item>
             <title>1.0.10</title>
             <pubDate>Tue, 20 Oct 2026 09:09:30 +0100</pubDate>
@@ -9,7 +18,7 @@
             <sparkle:shortVersionString>1.0.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/coddano/jovia-releases/main/Jovia-1.0.10.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0.10/Jovia-1.0.10.dmg" length="5684486" type="application/octet-stream" sparkle:edSignature="tmWbZ28dlvacLLV2ToQhuOUApsZhDqAHpreJh09XeeiVfh4ABXjCCXRj6ZMdXPF1Fn9rsz3iWcLMZQDODppuAg=="/>
+            <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0.10/Jovia-1.0.10.dmg" length="5684486" type="application/octet-stream" sparkle:edSignature="tmWbZ28dlvacLLV2ToQhuOUApsZhDqAHpreJh09XeeiVfh4ABXjCCXRj6ZMdXPF1Fn9rsz3iWcLMZQDODppuAg==" />
         </item>
         <item>
             <title>1.0.9</title>
@@ -18,7 +27,7 @@
             <sparkle:shortVersionString>1.0.9</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/coddano/jovia-releases/main/Jovia-1.0.9.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0.9/Jovia-1.0.9.dmg" length="5565967" type="application/octet-stream" sparkle:edSignature="HzWlnh4I+ZzZ1GI0yr9TmMwQ/Mw3mUMb4aJDuvSZYb7PWkhFN8iebvOb9QBrOweFmW5AjYDPT0LJZq9YPLpACg=="/>
+            <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0.9/Jovia-1.0.9.dmg" length="5565967" type="application/octet-stream" sparkle:edSignature="HzWlnh4I+ZzZ1GI0yr9TmMwQ/Mw3mUMb4aJDuvSZYb7PWkhFN8iebvOb9QBrOweFmW5AjYDPT0LJZq9YPLpACg==" />
         </item>
         <item>
             <title>1.0.8</title>
@@ -27,7 +36,7 @@
             <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/coddano/jovia-releases/main/Jovia-1.0.8.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0.8/Jovia-1.0.8.dmg" length="5367030" type="application/octet-stream" sparkle:edSignature="Lif21O6X2khrlYqGiVMDfFPAyc6lKkLszlUPYd/bIKfwtWnJOGAtGcCCppM3lvc3OpsT8pQ9G3eLiGSbmORCDA=="/>
+            <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0.8/Jovia-1.0.8.dmg" length="5367030" type="application/octet-stream" sparkle:edSignature="Lif21O6X2khrlYqGiVMDfFPAyc6lKkLszlUPYd/bIKfwtWnJOGAtGcCCppM3lvc3OpsT8pQ9G3eLiGSbmORCDA==" />
         </item>
         <item>
             <title>1.0.7</title>
@@ -36,7 +45,7 @@
             <sparkle:shortVersionString>1.0.7</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
             <sparkle:releaseNotesLink>https://raw.githubusercontent.com/coddano/jovia-releases/main/Jovia-1.0.7.md</sparkle:releaseNotesLink>
-            <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0.7/Jovia-1.0.7.dmg" length="5366410" type="application/octet-stream" sparkle:edSignature="nn7pnanQan5HJBW5+vJ0qI4iIPCHjlUUbxHUG3jrlftrwLXPyangIKsR3SWVNLcqJUtQhNVtJUPXTdpoumVrCQ=="/>
+            <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0.7/Jovia-1.0.7.dmg" length="5366410" type="application/octet-stream" sparkle:edSignature="nn7pnanQan5HJBW5+vJ0qI4iIPCHjlUUbxHUG3jrlftrwLXPyangIKsR3SWVNLcqJUtQhNVtJUPXTdpoumVrCQ==" />
         </item>
         <item>
             <title>1.0</title>
@@ -44,7 +53,7 @@
             <sparkle:version>1</sparkle:version>
             <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0/Jovia-1.0.dmg" length="5140666" type="application/octet-stream" sparkle:edSignature="3UsmbtQSpWTO3UAvnhSCukc8zzUaeAQlFtnls90qHxwRsL73KML5Q/f7Za6zRq8atnX4GA6jNOg963nIXYnwBw=="/>
+            <enclosure url="https://github.com/coddano/jovia-releases/releases/download/v1.0/Jovia-1.0.dmg" length="5140666" type="application/octet-stream" sparkle:edSignature="3UsmbtQSpWTO3UAvnhSCukc8zzUaeAQlFtnls90qHxwRsL73KML5Q/f7Za6zRq8atnX4GA6jNOg963nIXYnwBw==" />
         </item>
     </channel>
 </rss>
